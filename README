@@ -1,0 +1,17 @@
+Exploring Policy Gradient Methods
+=================================
+
+The directory structure is as follows:
+
+- ``policy_grad.py``: main code for training
+- ``model.py``: NN definition for the policy model
+- ``play.py``: code for evaluating the model
+- ``visualize_loss.py``: code for plotting the reward v/s episodes curve
+
+Library dependencies:
+
+- tensorflow
+- gym
+- numpy
+- tqdm
+- matplotlib
